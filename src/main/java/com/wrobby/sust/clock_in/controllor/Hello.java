@@ -1,9 +1,5 @@
 package com.wrobby.sust.clock_in.controllor;
 
-import com.wrobby.sust.clock_in.utils.SendEmailUtil;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Configuration;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
